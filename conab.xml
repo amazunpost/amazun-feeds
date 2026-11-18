@@ -1,10 +1,451 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Conab - Notícias</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias</link><description>Manchetes da Companhia Nacional de Abastecimento</description><item><title>Conab adquire 500 quilos de sementes agroecológicas de hortaliças no Rio Grande
-do Sul</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias/conab-adquire-500-quilos-de-sementes-agroecologicas-de-hortalicas-no-rio-grande-do-sul</link><guid>https://www.gov.br/conab/pt-br/assuntos/noticias/conab-adquire-500-quilos-de-sementes-agroecologicas-de-hortalicas-no-rio-grande-do-sul</guid></item><item><title>Conab realiza leilão de compra de 73 mil toneladas arroz com entrega programada
-a partir de março de 2027</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias/conab-realiza-leilao-de-compra-de-73-mil-toneladas-arroz-com-entrega-programada-a-partir-de-marco-de-2027</link><guid>https://www.gov.br/conab/pt-br/assuntos/noticias/conab-realiza-leilao-de-compra-de-73-mil-toneladas-arroz-com-entrega-programada-a-partir-de-marco-de-2027</guid></item><item><title>Conab participa de ato de plantio do arroz agroecológico da safra 2026/2027 no
-Rio Grande do Sul</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias/conab-participa-de-ato-de-plantio-do-arroz-agroecologico-da-safra-2026-2027-no-rio-grande-do-sul</link><guid>https://www.gov.br/conab/pt-br/assuntos/noticias/conab-participa-de-ato-de-plantio-do-arroz-agroecologico-da-safra-2026-2027-no-rio-grande-do-sul</guid></item><item><title>PARANÁ - Conab participou de encontro nacional de estudantes indígenas com
-doação de alimentos</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias/parana-conab-participou-de-encontro-nacional-de-estudantes-indigenas-com-doacao-de-alimentos</link><guid>https://www.gov.br/conab/pt-br/assuntos/noticias/parana-conab-participou-de-encontro-nacional-de-estudantes-indigenas-com-doacao-de-alimentos</guid></item><item><title>AVISO DE PAUTA - Conab e Ceagesp inauguram unidade de vendas em Presidente
-Prudente</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias/aviso-de-pauta-conab-e-ceagesp-inauguram-unidade-de-vendas-em-presidente-prudente</link><guid>https://www.gov.br/conab/pt-br/assuntos/noticias/aviso-de-pauta-conab-e-ceagesp-inauguram-unidade-de-vendas-em-presidente-prudente</guid></item><item><title>Nova estimativa da Conab para safra de grãos 2026/27 é de 366,1 milhões de
-toneladas</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias/nova-estimativa-da-conab-para-safra-de-graos-2026-27-e-de-366-1-milhoes-de-toneladas</link><guid>https://www.gov.br/conab/pt-br/assuntos/noticias/nova-estimativa-da-conab-para-safra-de-graos-2026-27-e-de-366-1-milhoes-de-toneladas</guid></item><item><title>Leilões de compra prevêem aquisição 67,09 mil toneladas de arroz para formação
-de estoques públicos</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias/leiloes-de-compra-preveem-aquisicao-67-09-mil-toneladas-de-arroz-para-formacao-de-estoques-publicos</link><guid>https://www.gov.br/conab/pt-br/assuntos/noticias/leiloes-de-compra-preveem-aquisicao-67-09-mil-toneladas-de-arroz-para-formacao-de-estoques-publicos</guid></item><item><title>Leilões para aquisição de cestas de alimentos destinadas a famílias indígenas
-têm editais divulgados</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias/leiloes-para-aquisicao-de-cestas-de-alimentos-destinadas-a-familias-indigenas-tem-editais-divulgados</link><guid>https://www.gov.br/conab/pt-br/assuntos/noticias/leiloes-para-aquisicao-de-cestas-de-alimentos-destinadas-a-familias-indigenas-tem-editais-divulgados</guid></item><item><title>AVISO DE PAUTA – 2º Levantamento da Safra de Grãos 2026/27</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias/aviso-de-pauta-2013-2o-levantamento-da-safra-de-graos-2026-27</link><guid>https://www.gov.br/conab/pt-br/assuntos/noticias/aviso-de-pauta-2013-2o-levantamento-da-safra-de-graos-2026-27</guid></item><item><title>Portal de Transparência de Estoques Públicos é atualizado com novos padrões de
-segurança e acessibilidade do Governo Federal</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias/portal-de-transparencia-de-estoques-publicos-e-atualizado-com-novos-padroes-de-seguranca-e-acessibilidade-do-governo-federal</link><guid>https://www.gov.br/conab/pt-br/assuntos/noticias/portal-de-transparencia-de-estoques-publicos-e-atualizado-com-novos-padroes-de-seguranca-e-acessibilidade-do-governo-federal</guid></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Conab - Notícias</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias</link><description>Notícias de Conab</description><item><title>Conab adquire 500 quilos de sementes agroecológicas de hortaliças no Rio Grande
+do Sul</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias/conab-adquire-500-quilos-de-sementes-agroecologicas-de-hortalicas-no-rio-grande-do-sul</link><guid>https://www.gov.br/conab/pt-br/assuntos/noticias/conab-adquire-500-quilos-de-sementes-agroecologicas-de-hortalicas-no-rio-grande-do-sul</guid><description>&lt;p&gt;Formalização ocorreu em evento que também marcou o início da safra de arroz
+orgânico cultivada com sementes adquiridas pela estatal&lt;/p&gt;</description><content:encoded>&lt;p&gt;A Companhia Nacional de Abastecimento (Conab) vai adquirir 500 quilos de
+sementes de hortaliças de 15 espécies da Cooperativa Agroecológica Nacional
+Terra e Vida (Coonaterra), gestora da Rede de Sementes Agroecológicas BioNatur,
+sediada em Candiota, na região da Campanha. O investimento de R$ 750 mil é
+financiado pelo Ministério do Desenvolvimento Agrário e Agricultura Familiar
+(MDA).
+
+As sementes são produzidas por 57 famílias vinculadas à cooperativa em oito
+municípios gaúchos: Candiota, Hulha Negra, Pinheiro Machado, Piratini, Aceguá,
+Canguçu, Herval e Sant’Ana do Livramento. A aquisição abrange sementes de
+agrião, alface, beterraba, cenoura, coentro, couve, ervilha, melancia, melão,
+moranga, mostarda, rabanete, rúcula, salsa e tomate. A iniciativa busca
+fortalecer a produção agroecológica e ampliar a segurança alimentar de famílias
+assentadas, indígenas, quilombolas e pescadores artesanais.
+
+A Conab formalizou a contratação na terça-feira (17), no assentamento Filhos de
+Sepé, em Viamão (RS), durante o Ato do Plantio do Arroz Agroecológico. A
+assinatura dos Termos de Pactuação da Agricultura Familiar integra o Programa de
+Aquisição de Alimentos (PAA) na modalidade Compra com Doação Simultânea. Durante
+a cerimônia, a diretora de Política Agrícola e Informações da estatal, Naiara
+Bittencourt, ressaltou que a aquisição fortalece sistemas agroecológicos e
+amplia a oferta de alimentos à população.
+
+Sementes de arroz apoiam a nova safra nos assentamentos
+
+Além do anúncio para as hortaliças, a agenda em Viamão marcou o início simbólico
+de mais um ciclo produtivo nos assentamentos gaúchos. Para a safra 2026/2027, os
+agricultores utilizam 460 toneladas de sementes de arroz agroecológico que já
+haviam sido adquiridas pela Conab em leilões eletrônicos anteriores, também com
+recursos do MDA. O plantio ocorre nos municípios de Nova Santa Rita, Eldorado do
+Sul, Viamão e São Jerônimo.
+
+Organizado pelo Grupo Gestor do Arroz Agroecológico (GGAA), o evento destacou o
+papel da agricultura camponesa na produção de alimentos saudáveis e no
+fortalecimento da agroecologia. A colheita do grão vai abastecer mercados
+institucionais, como o Programa de Aquisição de Alimentos (PAA) e o Programa
+Nacional de Alimentação Escolar (PNAE), além de cozinhas solidárias e feiras
+comunitárias.
+
+O trabalho coordenado pelo GGAA reúne 323 famílias de 13 assentamentos em nove
+municípios do Rio Grande do Sul, em ação vinculada ao Movimento dos
+Trabalhadores Rurais Sem Terra (MST). Para o ciclo atual, o grupo estima colher
+18,7 mil toneladas de arroz orgânico em uma área de 3.123 hectares, consolidando
+uma das principais experiências de produção agroecológica da América Latina.
+
+A preservação da biodiversidade e o resgate de variedades tradicionais de
+sementes são eixos centrais da produção nos assentamentos. “Estamos aqui
+apoiando o trabalho que o MST vem fazendo, valorizando a biodiversidade das
+sementes de arroz e resgatando variedades que praticamente estavam esquecidas”,
+afirma o presidente da Conab, Silvio Porto. Ele destaca ainda a autonomia
+proporcionada pelo uso de bioinsumos e pelo desenvolvimento de tecnologias
+sociais.
+
+Para o técnico e membro do GGAA Diego Severo, a aquisição fortalece os
+produtores na abertura do ciclo agrícola. “Essa semente chega no momento exato,
+quando mais necessitamos para semear e executar o plantio da safra 2026/2027”,
+afirma, ressaltando a importância do apoio diante dos eventos climáticos
+extremos que atingem a agricultura.
+
+A programação do evento incluiu visita à Unidade de Produção de Bioinsumos Ana
+Primavesi e almoço comunitário na sede do assentamento Filhos de Sepé.
+Acompanharam as atividades o presidente da Conab, Silvio Porto; a diretora de
+Política Agrícola e Informações da estatal, Naiara Bittencourt; a secretária de
+Abastecimento, Cooperativismo e Soberania Alimentar do MDA, Ana Terra Reis; o
+superintendente da Conab no Rio Grande do Sul, Antônio Matheus; o
+superintendente regional do MDA, Milton Bernardes; e o superintendente regional
+do Instituto Nacional de Colonização e Reforma Agrária (Incra), Paulo Mioranza.
+
+Mais informações para a imprensa:
+Gerência de Imprensa
+(61) 3312-6338/ 6344/ 6393/ 2256
+imprensa@conab.gov.br&lt;/p&gt;</content:encoded></item><item><title>Conab realiza leilão de compra de 73 mil toneladas arroz com entrega programada
+a partir de março de 2027</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias/conab-realiza-leilao-de-compra-de-73-mil-toneladas-arroz-com-entrega-programada-a-partir-de-marco-de-2027</link><guid>https://www.gov.br/conab/pt-br/assuntos/noticias/conab-realiza-leilao-de-compra-de-73-mil-toneladas-arroz-com-entrega-programada-a-partir-de-marco-de-2027</guid><description>&lt;p&gt;Operação visa recompor os estoques públicos e garantir estabilidade no
+abastecimento nacional; produtores e cooperativas já podem consultar os editais&lt;/p&gt;</description><content:encoded>&lt;p&gt;Os produtores de arroz poderão vender até 73 mil toneladas de arroz ao governo
+federal. A Companhia Nacional de Abastecimento (Conab) irá realizar 4 leilões de
+compra do cereal a granel da safra 2025/2026, classe longo-fino em casca, Tipo
+1, com entrega do produto programada a partir de março do ano que vem. A medida
+integra a política do Governo Federal de recomposição dos estoques reguladores e
+busca assegurar o abastecimento interno, além de oferecer sustentação de renda
+aos produtores rurais no início da colheita. Os detalhes das operações constam
+nos Avisos nºs 108, 109, 110 e 111.&lt;/p&gt;&lt;p&gt;A operação prevê o depósito do grão nas unidades armazenadoras credenciadas no
+Rio Grande do Sul e no Tocantins, sendo que 69 mil toneladas serão destinadas a
+armazéns no município de São Borja na região da Fronteira Oeste do Rio Grande do
+Sul, e outras 4 mil toneladas em Formoso do Araguaia, no Tocantins, conforme
+quantidades e locais especificados por aviso e respectivos lotes ofertados. A
+entrega no estado gaúcho deverá acontecer a partir de 15 de março de 2027 até 15
+de abril do ano que vem, enquanto que em Tocantins o prazo de recebimento do
+produto vendido pelo produtor é de 01 de abril até 13 de maio do ano que vem,
+alinhando-se ao calendário de escoamento da safra. &lt;/p&gt;&lt;p&gt;O pregão será realizado no próximo dia 23, a partir de 9h, por meio do Sistema
+de Comercialização Eletrônica da Conab (Siscoe), na modalidade viva-voz. O preço
+máximo de para a compra do produto com destino ao Rio Grande do Sul é de R$
+79,68 para a saca de 50 quilos de arroz com rendimento de 57% a 59% de grãos
+inteiros, variando conforme as demais classificações do grão, conforme indicam
+os avisos. Esse valor corresponde ao preço mínimo vigente da safra acrescido de
+um ágio de 25%. Já no Tocantins, o preço máximo para a operação será divulgado
+em até dois dias úteis antes da realização do leilão, seguindo o mesmo critério
+de cálculo.&lt;/p&gt;&lt;p&gt;“Ao garantirmos a compra do grão produzido no ciclo 2025/26 agora, com um ágio
+de 25% sobre o preço mínimo e entrega prevista para a entrada da nova safra,
+oferecemos ao produtor rural previsibilidade e segurança financeira. Sabemos que
+a entrada da safra é historicamente o momento mais sensível para o produtor, uma
+vez que o pico da colheita costuma pressionar as cotações para baixo devido à
+maior oferta no mercado. Essa operação funciona como um importante instrumento
+de garantia de renda no campo, ao mesmo tempo em que assegura a formação
+estratégica dos estoques públicos do país. É uma medida que traz tranquilidade
+para quem produz e fortalece o abastecimento nacional”, reforça o diretor de
+Operações e Abastecimento da Conab, Arnoldo de Campos.&lt;/p&gt;&lt;p&gt;Regras para participação – De acordo com os avisos publicados pela Conab,
+poderão participar dos leilões de compra os produtores e as produtoras de arroz
+ou as cooperativas de agricultores. Todos os comunicados, avisos e resultados
+destas operações estão disponíveis no Portal da Conab. Para participar do
+leilão, os interessados devem estar cadastrados perante a Bolsa de Mercadorias
+por meio da qual pretendam realizar a operação, e registrados, na data da
+realização do leilão, no Sistema de Cadastro Nacional de Produtores Rurais da
+Conab (Sican), além de estarem em situação regular no Sistema de Cadastramento
+Unificado de Fornecedores (Sicaf) e cumprirem demais exigências dos Avisos.&lt;/p&gt;&lt;p&gt;A operação de compra de arroz voltada para o reforço dos estoques públicos está
+autorizada pela Portaria Interministerial nº 20, de 2 de setembro de 2026
+[https://www.in.gov.br/web/dou/-/portaria-interministerial-mda/mapa/mf-n-20-de-2-de-setembro-de-2026-729953567],
+publicada no início deste mês e assinada pelos ministérios da Agricultura e
+Pecuária, da Fazenda, do Planejamento e Orçamento, e do Desenvolvimento Agrário
+e Agricultura Familiar. O documento destina até R$ 500 milhões às aquisições no
+âmbito das ações de mitigação dos impactos associados ao fenômeno El Niño. &lt;/p&gt;&lt;p&gt;Serviço:
+Leilão de compra de arroz
+Data: 23 de novembro de 2026
+Horário: a partir de 9h
+Aviso Nº 108 [https://acesseleiloes.conab.gov.br/#/home/1031]
+Aviso Nº 109 [https://acesseleiloes.conab.gov.br/#/home/1032]
+Aviso Nº 110 [https://acesseleiloes.conab.gov.br/#/home/1033]
+Aviso Nº 111 [https://acesseleiloes.conab.gov.br/#/home/1034]&lt;/p&gt;&lt;p&gt;Demais informações e comunicados no Portal da Conab:
+https://portaldecomercializacao.conab.gov.br/#/home
+[https://portaldecomercializacao.conab.gov.br/#/home]&lt;/p&gt;&lt;p&gt;Mais informações para a imprensa:
+Gerência de Imprensa
+(61) 3312-6338/ 6344/ 6393/ 2256
+imprensa@conab.gov.br [imprensa@conab.gov.br]&lt;/p&gt;</content:encoded></item><item><title>Conab participa de ato de plantio do arroz agroecológico da safra 2026/2027 no
+Rio Grande do Sul</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias/conab-participa-de-ato-de-plantio-do-arroz-agroecologico-da-safra-2026-2027-no-rio-grande-do-sul</link><guid>https://www.gov.br/conab/pt-br/assuntos/noticias/conab-participa-de-ato-de-plantio-do-arroz-agroecologico-da-safra-2026-2027-no-rio-grande-do-sul</guid><description>&lt;p&gt;Atividade será realizada nesta terça-feira (17), no Assentamento Filhos de Sepé,
+em Viamão, e reúne representantes de instituições públicas e organizações da
+agricultura familiar&lt;/p&gt;</description><content:encoded>&lt;p&gt;A Companhia Nacional de Abastecimento (Conab) participa, nesta terça-feira (17),
+do Ato de Plantio do Arroz Agroecológico da safra 2026/2027, no Assentamento
+Filhos de Sepé, em Viamão, no Rio Grande do Sul. A iniciativa é promovida pelo
+Grupo Gestor do Arroz Agroecológico e reúne representantes do Ministério do
+Desenvolvimento Agrário e Agricultura Familiar (MDA), do Ministério do
+Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS), do
+Instituto Nacional de Colonização e Reforma Agrária (Incra) e da Conab.&lt;/p&gt;&lt;p&gt;O ato marca o início simbólico de mais um ciclo de produção do arroz
+agroecológico cultivado em assentamentos da Reforma Agrária no estado e reforça
+a importância da agricultura camponesa para a produção de alimentos saudáveis, a
+sustentabilidade e o fortalecimento da agricultura familiar.&lt;/p&gt;&lt;p&gt;A programação começa às 10h, com o ato de plantio do arroz agroecológico. Às
+11h30, os participantes visitam a Unidade de Produção de Bioinsumos. O
+encerramento está previsto para as 13h, com um almoço comunitário na sede do
+Assentamento Filhos de Sepé.&lt;/p&gt;&lt;p&gt;A atividade também representa um momento de integração entre agricultores,
+organizações sociais e instituições públicas comprometidas com o desenvolvimento
+rural e o incentivo a sistemas produtivos sustentáveis.&lt;/p&gt;&lt;p&gt;Serviço:&lt;/p&gt;&lt;p&gt;Evento: Ato de Plantio do Arroz Agroecológico – Safra 2026/2027
+Data: 17 de novembro de 2026
+Local: Assentamento Filhos de Sepé – Viamão (RS)&lt;/p&gt;&lt;p&gt;Programação:&lt;/p&gt;&lt;p&gt;* 10h – Ato de plantio do arroz agroecológico;
+* 11h30 – Visita à Unidade de Produção de Bioinsumos;
+* 13h – Almoço comunitário na sede do assentamento.&lt;/p&gt;&lt;p&gt;Mais informações para a imprensa:
+Gerência de Imprensa
+(61) 3312-6338/ 6344/ 6393/ 2256
+imprensa@conab.gov.br [imprensa@conab.gov.br]&lt;/p&gt;</content:encoded></item><item><title>PARANÁ - Conab participou de encontro nacional de estudantes indígenas com
+doação de alimentos</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias/parana-conab-participou-de-encontro-nacional-de-estudantes-indigenas-com-doacao-de-alimentos</link><guid>https://www.gov.br/conab/pt-br/assuntos/noticias/parana-conab-participou-de-encontro-nacional-de-estudantes-indigenas-com-doacao-de-alimentos</guid><description>&lt;p&gt;Durante o encontro houve a entrega de produtos da agricultura familiar no âmbito
+do PAA&lt;/p&gt;</description><content:encoded>&lt;p&gt;A Companhia Nacional de Abastecimento (Conab) participou esta semana do XIII
+Encontro Nacional dos Estudantes Indígenas (ENEI 2026), realizado de 9 a 13 de
+novembro de 2026 na Universidade Federal da Integração Latino-Americana (UNILA),
+em Foz do Iguaçu (PR).&lt;/p&gt;&lt;p&gt;Durante o encontro houve a entrega de produtos da agricultura familiar no âmbito
+do Programa de Aquisição de Alimentos (PAA). As doações incluíram 2 toneladas de
+carne suína, 600 quilos de arroz, 200 quilos de feijão, 300 quilos de
+canjiquinha, 300 quilos de fubá e 250 quilos de leite em pó. Todos os produtos
+foram provenientes dos estoques públicos do PAA, na modalidade Compra
+Institucional. Os recursos para a aquisição são do Ministério do Desenvolvimento
+e Assistência Social, Família e Combate à Fome (MDS).&lt;/p&gt;&lt;p&gt;A Conab foi representada pelo Superintendente Regional no Paraná, Valmor Luiz
+Bordin, e pela analista do Setor de Programas Institucionais e Sociais de
+Abastecimento (Sepab), Marta Bertrameli. Além de marcar presença na mesa de
+abertura, a Conab ministrou uma palestra sobre o PAA durante a feira, com
+destaque para a participação dos indígenas enquanto fornecedores de alimentos ao
+programa.&lt;/p&gt;&lt;p&gt;“Destacamos o grande interesse demonstrado pelos alunos participantes da oficina
+ministrada sobre políticas públicas, com ênfase no PAA e na prioridade aos povos
+tradicionais. Também tivemos a participação de professores indígenas de várias
+partes do Brasil, que demonstraram muito interesse nos assuntos debatidos”,
+afirmou Bordin.&lt;/p&gt;&lt;p&gt;O PAA tem como objetivo apoiar a comercialização de produtos da agricultura
+familiar, incluindo povos e comunidades tradicionais, e, ao mesmo tempo,
+contribuir para a segurança alimentar. Por meio do programa, o governo adquire
+alimentos de agricultores familiares e os destina ao atendimento de pessoas em
+situação de insegurança alimentar e de entidades beneficiárias, como bancos de
+alimentos e cozinhas solidárias.&lt;/p&gt;&lt;p&gt;Mais informações para a imprensa:&lt;/p&gt;&lt;p&gt;Gerência de Imprensa
+(61) 3312-6338/ 6344/ 6393/ 2256
+imprensa@conab.gov.br&lt;/p&gt;</content:encoded></item><item><title>AVISO DE PAUTA - Conab e Ceagesp inauguram unidade de vendas em Presidente
+Prudente</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias/aviso-de-pauta-conab-e-ceagesp-inauguram-unidade-de-vendas-em-presidente-prudente</link><guid>https://www.gov.br/conab/pt-br/assuntos/noticias/aviso-de-pauta-conab-e-ceagesp-inauguram-unidade-de-vendas-em-presidente-prudente</guid><description>&lt;p&gt;Estrutura do ProVB foi planejada para beneficiar até 25 municípios do Pontal do
+Paranapanema e aproximar o atendimento dos pequenos criadores rurais&lt;/p&gt;</description><content:encoded>&lt;p&gt;A Companhia Nacional de Abastecimento (Conab) e a Companhia de Entrepostos e
+Armazéns Gerais de São Paulo (Ceagesp) apresentam, na quarta-feira (18), às 10h,
+a parceria institucional que viabilizou a abertura de uma unidade satélite de
+vendas (USV) nas instalações do armazém da Ceagesp em Presidente Prudente (SP).&lt;/p&gt;&lt;p&gt;A cerimônia marcará a inauguração oficial da estrutura, que integra a operação
+compartilhada do Programa de Venda em Balcão (ProVB), executado pela Conab com
+apoio operacional da Ceagesp. O programa comercializa milho em grãos para a
+alimentação animal diretamente a pequenos criadores rurais, a preços alinhados
+aos praticados no mercado atacadista local.&lt;/p&gt;&lt;p&gt;A instalação em Presidente Prudente atende à demanda do ProVB no Pontal do
+Paranapanema, território formado por 32 municípios do extremo oeste paulista.
+Conforme levantamento da Conab, a região reúne aproximadamente 12 mil pequenos
+produtores rurais com perfil para enquadramento no programa, entre criadores de
+bovinos, aves e suínos.&lt;/p&gt;&lt;p&gt;Planejada para atender até 25 municípios, a nova unidade encurta a logística de
+abastecimento na região. A estrutura reduz o deslocamento de criadores que antes
+precisavam recorrer à unidade armazenadora da Conab em Bernardino de Campos,
+localizada a mais de 300 quilômetros de distância.&lt;/p&gt;&lt;p&gt;Serviço:
+Inauguração da Unidade Satélite de Vendas do ProVB em Presidente Prudente
+Data: quarta-feira, 18 de novembro de 2026.
+Horário: 10h.
+Local: Unidade Armazenadora da Ceagesp em Presidente Prudente – Rodovia Raposo
+Tavares, km 562, Vila Nova Prudente (Pontilhão).&lt;/p&gt;&lt;p&gt;Atendimento à imprensa:
+Gerência de Imprensa da Conab
+(61) 3312-6338/ 6344/ 6393/ 2256
+imprensa@conab.gov.br&lt;/p&gt;</content:encoded></item><item><title>Nova estimativa da Conab para safra de grãos 2026/27 é de 366,1 milhões de
+toneladas</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias/nova-estimativa-da-conab-para-safra-de-graos-2026-27-e-de-366-1-milhoes-de-toneladas</link><guid>https://www.gov.br/conab/pt-br/assuntos/noticias/nova-estimativa-da-conab-para-safra-de-graos-2026-27-e-de-366-1-milhoes-de-toneladas</guid><description>&lt;figure&gt;&lt;img src=&quot;https://www.gov.br/conab/pt-br/assuntos/noticias/nova-estimativa-da-conab-para-safra-de-graos-2026-27-e-de-366-1-milhoes-de-toneladas/13-11-26-graos-destaque-novo-site-1.png/@@images/2130b702-d193-4786-97fa-3e6c1f3db5e6.png&quot;/&gt;&lt;/figure&gt;&lt;p&gt;Resultado reforça tendência de crescimento da produção, apoiada por avanço da
+área cultivada de milho, sorgo, algodão e soja.&lt;/p&gt;</description><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://www.gov.br/conab/pt-br/assuntos/noticias/nova-estimativa-da-conab-para-safra-de-graos-2026-27-e-de-366-1-milhoes-de-toneladas/13-11-26-graos-destaque-novo-site-1.png/@@images/2130b702-d193-4786-97fa-3e6c1f3db5e6.png&quot;/&gt;&lt;/figure&gt;&lt;p&gt;A segunda estimativa para a safra de grãos em 2026/27 indica um volume de
+produção de 366,1 milhões de toneladas. Com o avanço da semeadura das culturas
+de primeira safra, a Companhia Nacional Abastecimento (Conab) prevê uma área
+total de 85,3 milhões de hectares no atual ciclo, o que corresponde à
+incorporação de 1,9 milhão de hectares em relação à safra 2025/26 com destaque
+para o aumento no cultivo de milho, em especial na primeira safra, sorgo,
+algodão e soja. Os dados estão no 2º Levantamento de Grãos da Safra da atual
+temporada, divulgado nesta sexta-feira (13) pela Companhia. O ganho na área
+semeada tende a compensar leve redução de 1% na produtividade média nacional,
+projetada em 4.290 quilos por hectare, dado resultante de análises de modelos
+estatísticos, previsões climáticas, sensoriamento remoto e levantamento de
+campo.&lt;/p&gt;&lt;p&gt;De acordo com o levantamento, a projeção é que cerca de 49,3 milhões de hectares
+em todo país sejam destinados para a semeadura da soja. Com uma produtividade
+esperada em 3.683 kg/ha, a estimativa é que a produção fique em torno de 181,6
+milhões de toneladas. O plantio da safra 2026/27 até a primeira semana de
+novembro chega a 66,8% da área destinada para a cultura, conforme Progresso de
+Safra publicado no início desta semana. Em Mato Grosso, principal estado
+produtor do grão, o índice de semeadura é de 95,6%. O desenvolvimento inicial da
+oleaginosa apresenta um cenário geral positivo pelo país, mas o comportamento do
+clima ao longo de outubro impôs realidades distintas às regiões produtoras. A
+irregularidade das chuvas, combinada a temperaturas elevadas e aos efeitos do
+fenômeno El Niño neste começo de ciclo, mantém o estado de cautela quanto ao
+potencial produtivo das lavouras.&lt;/p&gt;&lt;p&gt;A Conab também prevê alta na área semeada de milho, projetada em 23,7 milhões de
+hectares, valor 4,9% superior ao do ciclo 2025/26. Com a previsão de uma
+produtividade 2,3% abaixo que a registrada em 2025/26, a produção total, ou
+seja, somadas as 3 safras do cereal, poderá chegar a 148 milhões de toneladas.
+Apenas na primeira safra do grão, a área no Centro-Oeste avança com a
+perspectiva de crescimento de 29,5% em relação à safra passada, seguido pelo
+Sul, com 12,7%, pelo Norte, com 10,9%, pelo Nordeste, com 7,2%, e pelo Sudeste,
+com 6,6%. Com isso, a Conab prevê um crescimento de 10,7% na área cultivada,
+estimada em 4,5 milhões de hectares, com uma colheita prevista em 32,1 milhões
+de toneladas. O plantio do primeiro ciclo do cereal já supera 50% da área,
+índice levemente superior à média dos últimos 5 anos.&lt;/p&gt;&lt;p&gt;Já para o arroz, a estimativa da Conab para o ciclo 2026/27 indica uma leve
+redução de 0,8% na área a ser semeada, projetada em 1,5 milhão de hectares,
+influenciada pela queda na área irrigada, com variação negativa de 2,4% em
+relação à safra passado, enquanto que o cultivo de sequeiro tende a crescer 7%.
+Com a menor área destinada à cultura, a produção de arroz pode chegar a
+aproximadamente 10,6 milhões de toneladas.&lt;/p&gt;&lt;p&gt;No caso do feijão, por ser uma cultura de ciclo curto, a produção total no ciclo
+2026/27 está estimada em 2,9 milhões de toneladas, 1,8% abaixo da safra
+anterior. A área da primeira safra do grão é esperada um ligeiro aumento de 0,3%
+se comparar com o primeiro ciclo da temporada 2025/26, totalizando uma previsão
+de plantio em 795,1 mil hectares. A semeadura foi iniciada nos principais
+estados produtores. Em Minas Gerais, até a primeira semana de novembro, o
+plantio atinge 55%, no Paraná 85%, na Bahia 34%. Já em São Paulo a semeadura
+está concluída.&lt;/p&gt;&lt;p&gt;Apesar da expectativa de redução de colheita destes dois importantes grãos para
+o consumo dos brasileiros, a produção estimada atende a demanda interna.&lt;/p&gt;&lt;p&gt;Para as culturas de inverno,  a Conab prevê queda de 10,7% na área semeada nesta
+safra, saindo de 3,35 milhões de hectares em 2025 para cerca de 3 milhões de
+hectares em 2026. De acordo com o levantamento da Companhia, apenas a produção
+de trigo, principal grão semeado, aponta para uma queda de 33,2%, sendo prevista
+uma colheita de 5,3 milhões de toneladas. Com a colheita respondendo a mais de
+78% da área cultivada, a diminuição da produção em relação às primeiras
+estimativas é ocasionada, principalmente, pela redução da área e pelo
+comportamento climático desfavorável, sobretudo no Paraná e no Rio Grande do
+Sul.&lt;/p&gt;&lt;p&gt;Mercado – Neste levantamento, a Conab atualizou as projeções para as exportações
+de milho. Para a safra 2025/26 a Companhia espera que os embarques fiquem em
+torno de 40,9 milhões de toneladas, queda de 6,8% em relação ao volume indicado
+no último levantamento. A redução no ritmo das vendas ao mercado externo pode
+ser explicada pela entrada da safra de milho norte-americana, aliada ao ganho de
+mercado pelos produtores argentinos e pela redução da demanda chinesa. Esse
+cenário também influencia na expectativa das exportações do cereal na safra
+2026/27, estimadas em cerca de 43 milhões de toneladas. Com estes ajustes, as
+previsões do estoque de passagem do grão passaram para 19 milhões de toneladas
+no final de janeiro de 2027 e 20,9 milhões de toneladas em 31 de janeiro de
+2028.&lt;/p&gt;&lt;p&gt;Também foram revisados os estoques de passagem do trigo tanto da safra 2025,
+quanto da safra 2026, estimados em 955,5 mil toneladas e 436,5 mil toneladas
+respectivamente. O ajuste se deve ao aumento do consumo no mercado interno. Com
+a menor qualidade do grão colhido, diante das condições climáticas adversas, há
+um maior direcionamento do cereal para o uso na ração animal.&lt;/p&gt;&lt;p&gt;Os dados completos e as análises mercadológicas dos produtos que fazem parte da
+pesquisa estão disponíveis no sobre o 2º Levantamento da Safra de Grãos 2026/27
+[https://www.gov.br/conab/pt-br/atuacao/informacoes-agropecuarias/safras/safra-de-graos].&lt;/p&gt;&lt;p&gt;Mais informações para a imprensa:
+Gerência de Imprensa
+(61) 3312-6338/ 6344/ 6393/ 2256
+imprensa@conab.gov.br [imprensa@conab.gov.br]&lt;/p&gt;</content:encoded><media:content url="https://www.gov.br/conab/pt-br/assuntos/noticias/nova-estimativa-da-conab-para-safra-de-graos-2026-27-e-de-366-1-milhoes-de-toneladas/13-11-26-graos-destaque-novo-site-1.png/@@images/2130b702-d193-4786-97fa-3e6c1f3db5e6.png" medium="image"></media:content><media:thumbnail url="https://www.gov.br/conab/pt-br/assuntos/noticias/nova-estimativa-da-conab-para-safra-de-graos-2026-27-e-de-366-1-milhoes-de-toneladas/13-11-26-graos-destaque-novo-site-1.png/@@images/2130b702-d193-4786-97fa-3e6c1f3db5e6.png"/></item><item><title>Leilões de compra prevêem aquisição 67,09 mil toneladas de arroz para formação
+de estoques públicos</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias/leiloes-de-compra-preveem-aquisicao-67-09-mil-toneladas-de-arroz-para-formacao-de-estoques-publicos</link><guid>https://www.gov.br/conab/pt-br/assuntos/noticias/leiloes-de-compra-preveem-aquisicao-67-09-mil-toneladas-de-arroz-para-formacao-de-estoques-publicos</guid><description>&lt;p&gt;Os pregões eletrônicos serão realizados nesta sexta-feira (13), a partir de 9h.
+Aquisição integra as ações de mitigação dos impactos associados ao fenômeno El
+Niño&lt;/p&gt;</description><content:encoded>&lt;p&gt;As operações destinadas à recomposição dos estoques públicos de arroz continuam
+ativas em novembro. Nesta sexta-feira (13), a Companhia Nacional de
+Abastecimento (Conab) realiza quatro leilões de compra do grão. A expectativa é
+adquirir 67,09 mil toneladas do cereal a granel da safra 2025/2026, classe
+longo-fino em casca, Tipo 1. Os pregões estão agendados para ocorrer a partir de
+9h e serão realizados de forma eletrônica por meio do Sistema de Comercialização
+Eletrônica da Conab (Siscoe) e com interligação das Bolsas de Cereais, de
+Mercadorias e/ou de Futuros. Os detalhes das operações constam nos Avisos nºs
+103, 104, 105 e 106.&lt;/p&gt;&lt;p&gt;Os leilões integram as ações do governo federal que visam mitigar os possíveis
+impactos associados ao fenômeno El Niño e assegurar o abastecimento no país.
+&amp;quot;Esta é uma medida preventiva que busca a eficiência e a economia no uso dos
+recursos públicos. Ao formar um estoque estratégico, garantimos a segurança
+alimentar e nutricional da população e asseguramos que o poder público possa
+atuar com agilidade antes que um evento adverso ocorra&amp;quot;, reforça o diretor de
+Operações e Abastecimento da Conab, Arnoldo de Campos.&lt;/p&gt;&lt;p&gt;O cereal a ser adquirido deverá ser entregue no Rio Grande do Sul, conforme
+quantidades e locais definidos em cada aviso. Ainda de acordo com os documentos
+publicados, o preço máximo de compra será de R$ 79,68 para a saca de 50 quilos
+de arroz com rendimento de 57% a 59% de grãos inteiros.&lt;/p&gt;&lt;p&gt;O mercado de arroz aponta para um cenário atual de queda nos preços. De acordo
+com a análise mensal do cereal elaborado pela Superintendência de Gestão da
+Oferta (Sugof) da Companhia, os preços do grão pagos ao produtor no Rio Grande
+do Sul na primeira semana de novembro apresentaram ligeira diminuição de 0,31%
+em comparação ao mesmo período do mês anterior. Panorama semelhante é verificado
+pelo Centro de Estudos Avançados em Economia Aplicada (Cepea-Esalq/USP), que
+aponta uma leve redução mensal no preço da saca de arroz em casca no estado
+gaúcho. “Mesmo diante de um cenário cambial mais atrativo para os embarques ao
+exterior, as negociações no mercado doméstico continuaram lentas. O contexto
+reforça o papel da Conab na formação de estoques públicos estratégicos,
+fundamentais para garantir a segurança alimentar, dar previsibilidade ao
+abastecimento e atenuar oscilações entre oferta e demanda tanto para produtores
+como para consumidores”, explica o diretor da Conab.&lt;/p&gt;&lt;p&gt;Regras para participação nos leilões - De acordo com os avisos publicados pela
+Conab, poderão participar dos leilões de compra os produtores e as produtoras de
+arroz ou as cooperativas de agricultores. Todos os comunicados, avisos e
+resultados destas operações estão disponíveis no Portal da Conab. Para
+participar do leilão, os interessados devem estar cadastrados perante a Bolsa de
+Mercadorias por meio da qual pretendam realizar a operação, e registrados, na
+data da realização do leilão, no Sistema de Cadastro Nacional de Produtores
+Rurais da Conab (Sican), além de estarem em situação regular no Sistema de
+Cadastramento Unificado de Fornecedores (Sicaf) e cumprirem demais exigências
+dos Avisos.&lt;/p&gt;&lt;p&gt;A operação de compra de arroz voltada para o reforço dos estoques públicos está
+autorizada pela Portaria Interministerial nº 20, de 2 de setembro de 2026
+[https://www.in.gov.br/web/dou/-/portaria-interministerial-mda/mapa/mf-n-20-de-2-de-setembro-de-2026-729953567],
+publicada no início deste mês e assinada pelos ministérios da Agricultura e
+Pecuária, da Fazenda, do Planejamento e Orçamento, e do Desenvolvimento Agrário
+e Agricultura Familiar. O documento destina até R$ 500 milhões às aquisições no
+âmbito das ações de mitigação dos impactos associados ao fenômeno El Niño.&lt;/p&gt;&lt;p&gt;Serviço:
+Leilão de compra de arroz
+Data: 13 de novembro de 2026
+Horário: a partir de 9h
+Aviso Nº 103 [https://acesseleiloes.conab.gov.br/#/home/1026]&lt;/p&gt;&lt;p&gt;Aviso Nº 104 [https://acesseleiloes.conab.gov.br/#/home/1027]&lt;/p&gt;&lt;p&gt;Aviso Nº 105 [https://acesseleiloes.conab.gov.br/#/home/1028]&lt;/p&gt;&lt;p&gt;Aviso Nº 106 [https://acesseleiloes.conab.gov.br/#/home/1029]&lt;/p&gt;&lt;p&gt;Demais informações e comunicados no Portal da Conab:
+https://portaldecomercializacao.conab.gov.br/#/home
+[https://www.in.gov.br/web/dou/-/portaria-interministerial-mda/mapa/mf-n-20-de-2-de-setembro-de-2026-729953567]&lt;/p&gt;&lt;p&gt;Mais informações para a imprensa:
+Gerência de Imprensa
+(61) 3312-6338/ 6344/ 6393/ 2256
+imprensa@conab.gov.br&lt;/p&gt;</content:encoded></item><item><title>Leilões para aquisição de cestas de alimentos destinadas a famílias indígenas
+têm editais divulgados</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias/leiloes-para-aquisicao-de-cestas-de-alimentos-destinadas-a-familias-indigenas-tem-editais-divulgados</link><guid>https://www.gov.br/conab/pt-br/assuntos/noticias/leiloes-para-aquisicao-de-cestas-de-alimentos-destinadas-a-familias-indigenas-tem-editais-divulgados</guid><description>&lt;figure&gt;&lt;img src=&quot;https://www.gov.br/conab/pt-br/assuntos/noticias/leiloes-para-aquisicao-de-cestas-de-alimentos-destinadas-a-familias-indigenas-tem-editais-divulgados/leilao-3-1.png/@@images/d85fa8f7-81b2-431f-97ca-78749bc66677.png&quot;/&gt;&lt;/figure&gt;&lt;p&gt;Operações estabelecem a compra de 104.593 cestas e 26 mil embalagens de capa de
+fardo; recursos para a execução da Ação de Distribuição de Alimentos para Grupos
+Populacionais Específicos (ADA) integram plano de trabalho firmado entre a Conab
+e o MDS&lt;/p&gt;</description><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://www.gov.br/conab/pt-br/assuntos/noticias/leiloes-para-aquisicao-de-cestas-de-alimentos-destinadas-a-familias-indigenas-tem-editais-divulgados/leilao-3-1.png/@@images/d85fa8f7-81b2-431f-97ca-78749bc66677.png&quot;/&gt;&lt;/figure&gt;&lt;p&gt;Por meio de recursos disponibilizados pelo Ministério do Desenvolvimento e
+Assistência Social, Família e Combate à Fome (MDS), a Companhia Nacional de
+Abastecimento (Conab) realizará leilões para a aquisição de 104.593 cestas de
+alimentos destinadas a famílias indígenas atendidas pela Fundação Nacional dos
+Povos Indígenas (Funai) na região da Amazônia Legal. A medida integra a Ação de
+Distribuição de Alimentos para Grupos Populacionais Específicos (ADA) e busca
+mitigar os efeitos do El Niño sobre a produção e o abastecimento de alimentos,
+com foco na população em situação de insegurança alimentar e nutricional. Os
+leilões serão executados na próxima quarta-feira (18), a partir das 9 horas
+(horário de Brasília).&lt;/p&gt;&lt;p&gt;Do total previsto, 84.463 cestas serão organizadas em 15 lotes com destino a
+coordenações regionais da Funai localizadas no Amazonas, em Rondônia e no Pará,
+de acordo com o Aviso nº 99/2026. Outras 20.130 unidades serão recebidas na
+Superintendência Regional da Companhia em Roraima (Sureg/RR), seguindo as
+orientações do Aviso nº 107/2026. As aquisições também incluem a compra de 26
+mil embalagens de capa de fardo (Aviso nº 100/2026), que serão alocadas na
+Unidade Armazenadora da Conab (UA) no município de Canoas (RS) para posterior
+utilização no acondicionamento de itens direcionados prioritariamente a cozinhas
+solidárias do Paraná, de Santa Catarina e do Rio Grande do Sul. Conforme
+divulgado anteriormente pela Companhia, as cestas da região Sul serão elaboradas
+com produtos vinculados ao Programa de Aquisição de Alimentos (PAA) já
+disponíveis em estoque na UA e com demais gêneros alimentícios da agricultura
+familiar, adquiridos pela Plataforma Contrata+Brasil entre os dias 6 e 12 de
+novembro.&lt;/p&gt;&lt;p&gt;Os leilões de cestas já montadas a serem distribuídas na região Norte serão
+efetivados por meio do Sistema de Comercialização Eletrônica da Conab (Siscoe).
+Cada unidade, com o total equivalente a 21,5 quilogramas de alimentos, será
+composta por açúcar cristal, arroz beneficiado, farinha de mandioca, feijão,
+flocos de milho pré-cozidos, leite em pó, macarrão espaguete, óleo de soja, sal
+e sardinha em óleo. As respectivas especificações de quantidade e tipos de
+produto estão disponíveis no edital. A entrega das cestas nas unidades
+recebedoras ocorrerá entre os dias 20 e 27 de novembro, com posterior doação às
+famílias indígenas beneficiadas, em consonância com as demandas da Diretoria de
+Direitos Humanos e Políticas Sociais (DHPS) da Funai. Já para as embalagens de
+capa de fardo, o prazo para entrega na UA Canoas é até o dia 10 de dezembro.&lt;/p&gt;&lt;p&gt;Na data de execução das operações, que serão efetuadas na modalidade “viva-voz”,
+os participantes deverão estar inscritos na Bolsa de Mercadorias de concorrência
+e em situação regular no Cadastro Informativo de Créditos não Quitados do Setor
+Público Federal (Cadin), no Sistema de Registro e Controle de Inadimplentes da
+Conab (Sircoi) e no Sistema de Cadastramento Unificado de Fornecedores (Sicaf).
+O preço máximo de aceitação para fechamento da compra será definido pela Conab,
+com tributos já inclusos, e divulgado em até dois dias úteis anteriores à data
+do leilão.&lt;/p&gt;&lt;p&gt;Informações detalhadas sobre os critérios necessários à participação e os prazos
+de execução estão disponíveis no site da Companhia, na aba “
+[https://acesseleiloes.conab.gov.br/#/home]Acesse Leilões
+[https://acesseleiloes.conab.gov.br/#/home]”
+[https://acesseleiloes.conab.gov.br/#/home].&lt;/p&gt;&lt;p&gt;Serviço:
+Leilão eletrônico para compra de cestas de alimentos
+Aviso nº 99/2026
+Data: 18 de novembro
+Horário limite: 9h (horário de Brasília)
+Link Siscoe: https://siscoeweb.conab.gov.br/siscoe-web-leilao
+[https://siscoeweb.conab.gov.br/siscoe-web-leilao/#/]&lt;/p&gt;&lt;p&gt;Aviso nº 107/2026
+Data: 18 de novembro
+Horário limite: após Aviso nº 100&lt;/p&gt;&lt;p&gt;Leilão eletrônico para compra de embalagem de capa de fardo
+Aviso nº 100/2026
+Data: 18 de novembro
+Horário limite: após Aviso nº 99&lt;/p&gt;&lt;p&gt;Mais informações para a imprensa:
+Gerência de Imprensa
+(61) 3312-6338/ 6344/ 6393/ 2256
+imprensa@conab.gov.br [imprensa@conab.gov.br]&lt;/p&gt;</content:encoded><media:content url="https://www.gov.br/conab/pt-br/assuntos/noticias/leiloes-para-aquisicao-de-cestas-de-alimentos-destinadas-a-familias-indigenas-tem-editais-divulgados/leilao-3-1.png/@@images/d85fa8f7-81b2-431f-97ca-78749bc66677.png" medium="image"></media:content><media:thumbnail url="https://www.gov.br/conab/pt-br/assuntos/noticias/leiloes-para-aquisicao-de-cestas-de-alimentos-destinadas-a-familias-indigenas-tem-editais-divulgados/leilao-3-1.png/@@images/d85fa8f7-81b2-431f-97ca-78749bc66677.png"/></item><item><title>AVISO DE PAUTA – 2º Levantamento da Safra de Grãos 2026/27</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias/aviso-de-pauta-2013-2o-levantamento-da-safra-de-graos-2026-27</link><guid>https://www.gov.br/conab/pt-br/assuntos/noticias/aviso-de-pauta-2013-2o-levantamento-da-safra-de-graos-2026-27</guid><description>&lt;p&gt;A Conab divulga, na sexta-feira (13), às 9h, os resultados do 2º Levantamento da
+Safra de Grãos 2026/27. O estudo contém as estimativas de produção, área e
+produtividade das principais culturas do país atualizadas.&lt;/p&gt;</description><content:encoded>&lt;p&gt;A Companhia Nacional de Abastecimento (Conab) divulga, na próxima sexta-feira
+(13), às 9h, os resultados do 2º Levantamento da Safra de Grãos 2026/27. O
+estudo contém as estimativas de produção, área e produtividade das principais
+culturas do país atualizadas.&lt;/p&gt;&lt;p&gt;A apresentação será transmitida ao vivo pelo canal da Conab no YouTube
+[https://www.youtube.com/watch?v=JplO9s_Cj3Y]. O boletim completo e o release
+estarão disponíveis no portal da Companhia e serão enviados à imprensa por
+e-mail.&lt;/p&gt;&lt;p&gt;Os veículos de rádio poderão acessar a edição especial da divulgação pelo
+podcast ConabCast [https://cast.conab.gov.br/].&lt;/p&gt;&lt;p&gt;Os pedidos de entrevistas devem ser enviados para o e-mail
+[imprensa@conab.gov.br] de atendimento à imprensa.&lt;/p&gt;&lt;p&gt;Serviço
+2º Levantamento da Safra de Grãos 2026/27
+Data e horário: Sexta-feira (13/11), às 9h.
+Onde acompanhar: Ao vivo canal da Conab no YouTube
+[https://www.youtube.com/watch?v=JplO9s_Cj3Y]
+Pedidos de entrevista: imprensa@conab.gov.br [imprensa@conab.gov.br]&lt;/p&gt;&lt;p&gt;Mais informações para a imprensa:
+Gerência de Imprensa
+(61) 3312-6338/ 6344/ 6393/ 2256
+imprensa@conab.gov.br [imprensa@conab.gov.br]&lt;/p&gt;</content:encoded></item><item><title>Portal de Transparência de Estoques Públicos é atualizado com novos padrões de
+segurança e acessibilidade do Governo Federal</title><link>https://www.gov.br/conab/pt-br/assuntos/noticias/portal-de-transparencia-de-estoques-publicos-e-atualizado-com-novos-padroes-de-seguranca-e-acessibilidade-do-governo-federal</link><guid>https://www.gov.br/conab/pt-br/assuntos/noticias/portal-de-transparencia-de-estoques-publicos-e-atualizado-com-novos-padroes-de-seguranca-e-acessibilidade-do-governo-federal</guid><description>&lt;p&gt;Nova versão da plataforma digital inclui melhorias tecnológicas, navegação
+simplificada e ampliação dos formatos de exportação de dados&lt;/p&gt;</description><content:encoded>&lt;p&gt;O Portal de Transparência de Estoques Públicos da Companhia Nacional de
+Abastecimento (Conab) foi atualizado. A plataforma digital, que permite o acesso
+às informações sobre estoques públicos de alimentos administrados pela
+Companhia, agora está adaptada aos padrões do Governo Federal (gov.br),
+adequando-se aos moldes de navegação simplificada, formatos de exportação de
+dados e melhorias tecnológicas. A atualização também representa um avanço em
+relação à segurança e à acessibilidade.&lt;/p&gt;&lt;p&gt;As mudanças na plataforma atendem a diferentes perfis de usuários, tanto no
+ambiente corporativo quanto no externo, com conteúdo responsivo (adaptável a
+diferentes dispositivos), o que facilita o acesso de produtores rurais,
+cooperativas, pesquisadores, gestores públicos e órgãos de controle. Além disso,
+os dados disponibilizados podem ser gerados em diferentes formatos de arquivos,
+ampliando a transparência e contribuindo para a produção de relatórios e
+análises de informações de interesse público.&lt;/p&gt;&lt;p&gt;Com o novo leiaute, o usuário tem uma interface mais intuitiva para a
+visualização das bases informativas, distribuídas nos seguintes tópicos: posição
+de estoques; aquisições; vendas (em balcão, leilão e pela Rede de Fortalecimento
+do Comércio Familiar); doações; perdas; remoções e cargas; operações realizadas
+por pessoas físicas ou jurídicas. A medida integra as estratégias de
+Transformação Digital no Setor Público, pactuadas pela Conab com o Ministério da
+Gestão e da Inovação em Serviços Públicos (MGI), que buscam promover a
+sustentabilidade tecnológica, a implementação de melhorias contínuas e o
+aprimoramento dos serviços digitais.&lt;/p&gt;&lt;p&gt;A plataforma atualizada está disponível na aba “Estoques Públicos” ou
+diretamente pelo link: https://sistemas.conab.gov.br/transparencia-web
+[https://sistemas.conab.gov.br/transparencia-web].&lt;/p&gt;&lt;p&gt;Estoques Públicos - Os estoques públicos são instrumentos estratégicos da
+Política Nacional de Abastecimento Alimentar (PNAAB), permitindo a aquisição de
+produtos em períodos de maior oferta e contribuindo para a execução de políticas
+de segurança alimentar e nutricional. Por meio das aquisições para a composição
+dos estoques, é possível executar ações de reforço do abastecimento, garantindo
+renda aos produtores e o enfrentamento do movimento de alta dos preços dos
+alimentos.&lt;/p&gt;&lt;p&gt;Mais informações para a imprensa:
+Gerência de Imprensa
+(61) 3312-6338/ 6344/ 6393/ 6389/ 2256
+imprensa@conab.gov.br&lt;/p&gt;</content:encoded></item></channel></rss>
